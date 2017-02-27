@@ -44,6 +44,7 @@ HTML := \
     index-vi.html \
     index-zh-cn.html \
     index-zh-tw.html \
+    index-ua.html \
     translate-en.html
 
 PDF_OUT = $(FILES:=.pdf)
